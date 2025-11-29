@@ -1,18 +1,27 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> st;
-        for(char c :s)
+        stack <int> st;
+        for(char c: s)
         {
-            if(c=='('||c=='['||c=='{')
-            st.push(c);
-           else 
+            if(!st.empty())
             {
-                if(st.empty() or (st.top()=='(' and c!=')') or (st.top()=='{' and c!='}') or (st.top()=='[' and c!=']')) return false;
+                char last = st.top();
+                if(ispair(last,c))
+                {
                 st.pop();
-        }
+                continue;
+                }
+            }
+            st.push(c);
         }
         return st.empty();
+    }
 
+    bool ispair(char a,char b)
+    {
+        return (a=='(' && b ==')' ||
+                a=='[' && b == ']'||
+                a=='{' && b == '}');
     }
 };
