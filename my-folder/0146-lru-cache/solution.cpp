@@ -1,83 +1,77 @@
-
-
 class LRUCache {
 public:
     class Node{
-    public:
-    int key;
-    int value;
-    Node *next;
-    Node *prev;
-
-    Node(int key_,int value_)
+        public:
+        int key;
+        int value;
+        Node* next;
+        Node* prev;
+        Node(int key,int value)
         {
-            this->key=key_;
-            this->value=value_;
-            this->next=nullptr;
-            this->prev=nullptr;
+            this->key=key;
+            this->value=value;
+            this->next=NULL;
+            this->prev=NULL;
         }
     };
-
     int capacity;
     unordered_map<int,Node*>mpp;
     Node* head=new Node(-1,-1);
     Node* tail=new Node(-1,-1);
-
-    LRUCache(int capacity_) {
-        capacity=capacity_;
+    LRUCache(int capacity) {
+        this->capacity=capacity;
         head->next=tail;
         tail->prev=head;
     }
-    void addNode(Node* node)
+
+    void addnode(Node* node)
     {
         Node* temp=head->next;
+        head->next=node;
         node->next=temp;
         node->prev=head;
-
-        head->next=node;
         temp->prev=node;
     }
 
-    void deletion(Node* delnode)
+    void deletenode(Node* node)
     {
-        Node* prevv=delnode ->prev;
-        Node* nextt=delnode ->next;
+        Node* prevv=node->prev;
+        Node* next=node->next;
 
-        prevv->next=nextt;
-        nextt->prev=prevv;
+        prevv->next=next;
+        next->prev=prevv;
     }
     
     int get(int key) {
-        if(mpp.find(key)==mpp.end())return -1;
-        Node * node= mpp[key];
-        int ans=node->value;\
-        deletion(node);
-        addNode(node);
-        return ans;
-    }
-    
-    void put(int key, int val) {
         if(mpp.find(key)!=mpp.end())
         {
-            Node* node=mpp[key];
-            node->value=val;
-            deletion(node);
-            addNode(node);
+            deletenode(mpp[key]);
+            addnode(mpp[key]);
+            return mpp[key]->value;
+        }
+        else return -1;
+    }
+    
+    void put(int key, int value) {
+        if(mpp.find(key)!=mpp.end())
+        {
+            mpp[key]->value=value;
+            deletenode(mpp[key]);
+            addnode(mpp[key]);
         }
         else
         {
-            if(mpp.size()==capacity)
+            Node* node= new Node(key,value);
+            if(mpp.size()>=capacity)
             {
                 mpp.erase(tail->prev->key);
-                deletion(tail->prev);
+                deletenode(tail->prev);
             }
-        addNode(new Node(key,val));
-        mpp[key]=head->next;
+            addnode(node);
+            mpp[key]=node;
         }
     }
 };
-
-auto init = atexit([]() { ofstream("display_runtime.txt") << "0"; });
 
 /**
  * Your LRUCache object will be instantiated and called as such:
