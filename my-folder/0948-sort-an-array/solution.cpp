@@ -1,53 +1,37 @@
 class Solution {
 public:
-    void merge(vector<int> &nums, int left, int mid, int right)
-    {
-        int low = left;
-        int high = mid+1;
-        vector<int> temp;
-        while(low <= mid && high <= right)
-        {
-            if(nums[low] <= nums[high])
-            {
-                temp.push_back(nums[low]);
-                low++;
-            }
-            else
-            {
-                temp.push_back(nums[high]);
-                high++;
-            }
-        }
-        while(low <= mid)
-        {
-            temp.push_back(nums[low]);
-            low++;
-        }
-        while(high <= right)
-        {
-            temp.push_back(nums[high]);
-            high++;
-        }
-        for(int i=0; i<temp.size(); i++)
-        {
-            nums[i + left] = temp[i];
-        }
-    }   
+    vector<int> temp;
 
-    void mergeSort(vector<int> &nums, int left, int right)
-    {
-        if(left == right)
-            return;
-        int mid = (left + right) / 2;
+    void merge(vector<int>& nums, int left, int mid, int right) {
+        int i = left, j = mid + 1, k = left;
+
+        while (i <= mid && j <= right) {
+            if (nums[i] <= nums[j])
+                temp[k++] = nums[i++];
+            else
+                temp[k++] = nums[j++];
+        }
+
+        while (i <= mid) temp[k++] = nums[i++];
+        while (j <= right) temp[k++] = nums[j++];
+
+        for (int p = left; p <= right; p++)
+            nums[p] = temp[p];
+    }
+
+    void mergeSort(vector<int>& nums, int left, int right) {
+        if (left >= right) return;
+
+        int mid = left + (right - left) / 2;
         mergeSort(nums, left, mid);
-        mergeSort(nums, mid+1, right);
+        mergeSort(nums, mid + 1, right);
         merge(nums, left, mid, right);
     }
 
-    vector<int> sortArray(vector<int>& nums) 
-    {
-        // atexit([](){ std::ofstream("display_runtime.txt") << "0"; });
-        mergeSort(nums, 0, nums.size()-1);
+    vector<int> sortArray(vector<int>& nums) {
+        temp.resize(nums.size());
+        mergeSort(nums, 0, nums.size() - 1);
         return nums;
     }
 };
+
