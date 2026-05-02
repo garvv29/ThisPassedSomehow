@@ -8,9 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0788-rotated-digits](https://github.com/garvv29/ThisPassedSomehow/tree/master/0788-rotated-digits) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/garvv29/ThisPassedSomehow/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [3742-maximum-path-score-in-a-grid](https://github.com/garvv29/ThisPassedSomehow/tree/master/3742-maximum-path-score-in-a-grid) |
+## Math
+|  |
+| ------- |
+| [0788-rotated-digits](https://github.com/garvv29/ThisPassedSomehow/tree/master/0788-rotated-digits) |
 <!---LeetCode Topics End-->
