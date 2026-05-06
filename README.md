@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/garvv29/ThisPassedSomehow/tree/master/0048-rotate-image) |
+| [1861-rotating-the-box](https://github.com/garvv29/ThisPassedSomehow/tree/master/1861-rotating-the-box) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/garvv29/ThisPassedSomehow/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/garvv29/ThisPassedSomehow/tree/master/0048-rotate-image) |
+| [1861-rotating-the-box](https://github.com/garvv29/ThisPassedSomehow/tree/master/1861-rotating-the-box) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/garvv29/ThisPassedSomehow/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Math
 |  |
@@ -29,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/garvv29/ThisPassedSomehow/tree/master/0061-rotate-list) |
+| [1861-rotating-the-box](https://github.com/garvv29/ThisPassedSomehow/tree/master/1861-rotating-the-box) |
 <!---LeetCode Topics End-->
