@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/garvv29/ThisPassedSomehow/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/garvv29/ThisPassedSomehow/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/garvv29/ThisPassedSomehow/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/3614-process-string-with-special-operations-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/garvv29/ThisPassedSomehow/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/garvv29/ThisPassedSomehow/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/3614-process-string-with-special-operations-ii) |
 ## Trie
 |  |
 | ------- |
