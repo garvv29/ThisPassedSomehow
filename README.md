@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/garvv29/ThisPassedSomehow/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/garvv29/ThisPassedSomehow/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/garvv29/ThisPassedSomehow/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/garvv29/ThisPassedSomehow/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1306-jump-game-iii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1306-jump-game-iii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/garvv29/ThisPassedSomehow/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/garvv29/ThisPassedSomehow/tree/master/0054-spiral-matrix) |
 | [1861-rotating-the-box](https://github.com/garvv29/ThisPassedSomehow/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/garvv29/ThisPassedSomehow/tree/master/1914-cyclically-rotating-a-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/garvv29/ThisPassedSomehow/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/garvv29/ThisPassedSomehow/tree/master/0054-spiral-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/garvv29/ThisPassedSomehow/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/garvv29/ThisPassedSomehow/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/garvv29/ThisPassedSomehow/tree/master/3612-process-string-with-special-operations-i) |
