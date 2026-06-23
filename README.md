@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/garvv29/ThisPassedSomehow/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/garvv29/ThisPassedSomehow/tree/master/3660-jump-game-ix) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/garvv29/ThisPassedSomehow/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/garvv29/ThisPassedSomehow/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/garvv29/ThisPassedSomehow/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/garvv29/ThisPassedSomehow/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/garvv29/ThisPassedSomehow/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1871-jump-game-vii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/garvv29/ThisPassedSomehow/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
