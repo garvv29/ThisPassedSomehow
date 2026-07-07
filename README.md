@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/garvv29/ThisPassedSomehow/tree/master/0061-rotate-list) |
+| [0460-lfu-cache](https://github.com/garvv29/ThisPassedSomehow/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/garvv29/ThisPassedSomehow/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/garvv29/ThisPassedSomehow/tree/master/0460-lfu-cache) |
 | [1345-jump-game-iv](https://github.com/garvv29/ThisPassedSomehow/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/garvv29/ThisPassedSomehow/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/garvv29/ThisPassedSomehow/tree/master/2540-minimum-common-value) |
@@ -203,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/garvv29/ThisPassedSomehow/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Design
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/garvv29/ThisPassedSomehow/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/garvv29/ThisPassedSomehow/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
