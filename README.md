@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/garvv29/ThisPassedSomehow/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/garvv29/ThisPassedSomehow/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0229-majority-element-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0229-majority-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/garvv29/ThisPassedSomehow/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/garvv29/ThisPassedSomehow/tree/master/1340-jump-game-v) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/garvv29/ThisPassedSomehow/tree/master/0001-two-sum) |
+| [0229-majority-element-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0229-majority-element-ii) |
 | [0460-lfu-cache](https://github.com/garvv29/ThisPassedSomehow/tree/master/0460-lfu-cache) |
 | [1345-jump-game-iv](https://github.com/garvv29/ThisPassedSomehow/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/garvv29/ThisPassedSomehow/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/garvv29/ThisPassedSomehow/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/garvv29/ThisPassedSomehow/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0229-majority-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/garvv29/ThisPassedSomehow/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/garvv29/ThisPassedSomehow/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/garvv29/ThisPassedSomehow/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0229-majority-element-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/garvv29/ThisPassedSomehow/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/garvv29/ThisPassedSomehow/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -260,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/garvv29/ThisPassedSomehow/tree/master/0005-longest-palindromic-substring) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
