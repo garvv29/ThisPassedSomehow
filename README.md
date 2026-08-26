@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/garvv29/ThisPassedSomehow/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/garvv29/ThisPassedSomehow/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/garvv29/ThisPassedSomehow/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/garvv29/ThisPassedSomehow/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/garvv29/ThisPassedSomehow/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/garvv29/ThisPassedSomehow/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/garvv29/ThisPassedSomehow/tree/master/0054-spiral-matrix) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/garvv29/ThisPassedSomehow/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/garvv29/ThisPassedSomehow/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/garvv29/ThisPassedSomehow/tree/master/0053-maximum-subarray) |
 | [0788-rotated-digits](https://github.com/garvv29/ThisPassedSomehow/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/garvv29/ThisPassedSomehow/tree/master/1340-jump-game-v) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/garvv29/ThisPassedSomehow/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/garvv29/ThisPassedSomehow/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/garvv29/ThisPassedSomehow/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/garvv29/ThisPassedSomehow/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/garvv29/ThisPassedSomehow/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/garvv29/ThisPassedSomehow/tree/master/0125-valid-palindrome) |
 | [1861-rotating-the-box](https://github.com/garvv29/ThisPassedSomehow/tree/master/1861-rotating-the-box) |
@@ -268,4 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/garvv29/ThisPassedSomehow/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/garvv29/ThisPassedSomehow/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
