@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/garvv29/ThisPassedSomehow/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/garvv29/ThisPassedSomehow/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/garvv29/ThisPassedSomehow/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/garvv29/ThisPassedSomehow/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/garvv29/ThisPassedSomehow/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/garvv29/ThisPassedSomehow/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/garvv29/ThisPassedSomehow/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/garvv29/ThisPassedSomehow/tree/master/0053-maximum-subarray) |
 | [0788-rotated-digits](https://github.com/garvv29/ThisPassedSomehow/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/garvv29/ThisPassedSomehow/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1871-jump-game-vii) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/garvv29/ThisPassedSomehow/tree/master/0053-maximum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/garvv29/ThisPassedSomehow/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
