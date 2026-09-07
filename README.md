@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/garvv29/ThisPassedSomehow/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/garvv29/ThisPassedSomehow/tree/master/0115-distinct-subsequences) |
 | [0788-rotated-digits](https://github.com/garvv29/ThisPassedSomehow/tree/master/0788-rotated-digits) |
+| [0940-distinct-subsequences-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0940-distinct-subsequences-ii) |
 | [1340-jump-game-v](https://github.com/garvv29/ThisPassedSomehow/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1872-stone-game-viii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/garvv29/ThisPassedSomehow/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/garvv29/ThisPassedSomehow/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/garvv29/ThisPassedSomehow/tree/master/0125-valid-palindrome) |
+| [0940-distinct-subsequences-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0940-distinct-subsequences-ii) |
 | [1871-jump-game-vii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/garvv29/ThisPassedSomehow/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/garvv29/ThisPassedSomehow/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
