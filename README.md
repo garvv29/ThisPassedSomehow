@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1306-jump-game-iii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/garvv29/ThisPassedSomehow/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -310,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/garvv29/ThisPassedSomehow/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/garvv29/ThisPassedSomehow/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/garvv29/ThisPassedSomehow/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
