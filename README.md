@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/garvv29/ThisPassedSomehow/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0229-majority-element-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0229-majority-element-ii) |
+| [0835-image-overlap](https://github.com/garvv29/ThisPassedSomehow/tree/master/0835-image-overlap) |
 | [1288-remove-covered-intervals](https://github.com/garvv29/ThisPassedSomehow/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/garvv29/ThisPassedSomehow/tree/master/1340-jump-game-v) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/garvv29/ThisPassedSomehow/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/garvv29/ThisPassedSomehow/tree/master/0054-spiral-matrix) |
+| [0835-image-overlap](https://github.com/garvv29/ThisPassedSomehow/tree/master/0835-image-overlap) |
 | [1861-rotating-the-box](https://github.com/garvv29/ThisPassedSomehow/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/garvv29/ThisPassedSomehow/tree/master/1914-cyclically-rotating-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/garvv29/ThisPassedSomehow/tree/master/3286-find-a-safe-walk-through-a-grid) |
