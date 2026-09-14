@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/garvv29/ThisPassedSomehow/tree/master/0048-rotate-image) |
 | [0788-rotated-digits](https://github.com/garvv29/ThisPassedSomehow/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/garvv29/ThisPassedSomehow/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/garvv29/ThisPassedSomehow/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/garvv29/ThisPassedSomehow/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1872-stone-game-viii) |
@@ -332,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/garvv29/ThisPassedSomehow/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/garvv29/ThisPassedSomehow/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
