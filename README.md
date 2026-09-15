@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/garvv29/ThisPassedSomehow/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvv29/ThisPassedSomehow/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/garvv29/ThisPassedSomehow/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/garvv29/ThisPassedSomehow/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3660-jump-game-ix](https://github.com/garvv29/ThisPassedSomehow/tree/master/3660-jump-game-ix) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/garvv29/ThisPassedSomehow/tree/master/0125-valid-palindrome) |
 | [1861-rotating-the-box](https://github.com/garvv29/ThisPassedSomehow/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/garvv29/ThisPassedSomehow/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvv29/ThisPassedSomehow/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/garvv29/ThisPassedSomehow/tree/master/2540-minimum-common-value) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/garvv29/ThisPassedSomehow/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Hash Table
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/garvv29/ThisPassedSomehow/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/garvv29/ThisPassedSomehow/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/garvv29/ThisPassedSomehow/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvv29/ThisPassedSomehow/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0940-distinct-subsequences-ii) |
 | [1871-jump-game-vii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/garvv29/ThisPassedSomehow/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvv29/ThisPassedSomehow/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/garvv29/ThisPassedSomehow/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/garvv29/ThisPassedSomehow/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/garvv29/ThisPassedSomehow/tree/master/3093-longest-common-suffix-queries) |
