@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/garvv29/ThisPassedSomehow/tree/master/0788-rotated-digits) |
 | [0940-distinct-subsequences-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0940-distinct-subsequences-ii) |
 | [1340-jump-game-v](https://github.com/garvv29/ThisPassedSomehow/tree/master/1340-jump-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/garvv29/ThisPassedSomehow/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvv29/ThisPassedSomehow/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/garvv29/ThisPassedSomehow/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/garvv29/ThisPassedSomehow/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/garvv29/ThisPassedSomehow/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/garvv29/ThisPassedSomehow/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1840-maximum-building-height](https://github.com/garvv29/ThisPassedSomehow/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/garvv29/ThisPassedSomehow/tree/master/1927-sum-game) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/garvv29/ThisPassedSomehow/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/garvv29/ThisPassedSomehow/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/garvv29/ThisPassedSomehow/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1871-jump-game-vii) |
@@ -341,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/garvv29/ThisPassedSomehow/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/garvv29/ThisPassedSomehow/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
