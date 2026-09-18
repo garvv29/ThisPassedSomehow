@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/garvv29/ThisPassedSomehow/tree/master/0460-lfu-cache) |
 | [1345-jump-game-iv](https://github.com/garvv29/ThisPassedSomehow/tree/master/1345-jump-game-iv) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/garvv29/ThisPassedSomehow/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvv29/ThisPassedSomehow/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/garvv29/ThisPassedSomehow/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/garvv29/ThisPassedSomehow/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/garvv29/ThisPassedSomehow/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvv29/ThisPassedSomehow/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/garvv29/ThisPassedSomehow/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/garvv29/ThisPassedSomehow/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/garvv29/ThisPassedSomehow/tree/master/1927-sum-game) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0229-majority-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/garvv29/ThisPassedSomehow/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/garvv29/ThisPassedSomehow/tree/master/1340-jump-game-v) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvv29/ThisPassedSomehow/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/garvv29/ThisPassedSomehow/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/garvv29/ThisPassedSomehow/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/garvv29/ThisPassedSomehow/tree/master/1840-maximum-building-height) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/garvv29/ThisPassedSomehow/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/garvv29/ThisPassedSomehow/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvv29/ThisPassedSomehow/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1871-jump-game-vii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/garvv29/ThisPassedSomehow/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvv29/ThisPassedSomehow/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
