@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/garvv29/ThisPassedSomehow/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0229-majority-element-ii) |
 | [0460-lfu-cache](https://github.com/garvv29/ThisPassedSomehow/tree/master/0460-lfu-cache) |
+| [1096-brace-expansion-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1096-brace-expansion-ii) |
 | [1345-jump-game-iv](https://github.com/garvv29/ThisPassedSomehow/tree/master/1345-jump-game-iv) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/garvv29/ThisPassedSomehow/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvv29/ThisPassedSomehow/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/garvv29/ThisPassedSomehow/tree/master/1345-jump-game-iv) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/garvv29/ThisPassedSomehow/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/garvv29/ThisPassedSomehow/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/garvv29/ThisPassedSomehow/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0229-majority-element-ii) |
+| [1096-brace-expansion-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/garvv29/ThisPassedSomehow/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/garvv29/ThisPassedSomehow/tree/master/1340-jump-game-v) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvv29/ThisPassedSomehow/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/garvv29/ThisPassedSomehow/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/garvv29/ThisPassedSomehow/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvv29/ThisPassedSomehow/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1871-jump-game-vii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/garvv29/ThisPassedSomehow/tree/master/1927-sum-game) |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/garvv29/ThisPassedSomehow/tree/master/0042-trapping-rain-water) |
+| [1096-brace-expansion-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -391,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/garvv29/ThisPassedSomehow/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
