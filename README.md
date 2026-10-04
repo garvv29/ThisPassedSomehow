@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/garvv29/ThisPassedSomehow/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/garvv29/ThisPassedSomehow/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/garvv29/ThisPassedSomehow/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/garvv29/ThisPassedSomehow/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/garvv29/ThisPassedSomehow/tree/master/0788-rotated-digits) |
 | [0940-distinct-subsequences-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0940-distinct-subsequences-ii) |
 | [1340-jump-game-v](https://github.com/garvv29/ThisPassedSomehow/tree/master/1340-jump-game-v) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/garvv29/ThisPassedSomehow/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvv29/ThisPassedSomehow/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/garvv29/ThisPassedSomehow/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/garvv29/ThisPassedSomehow/tree/master/1833-maximum-ice-cream-bars) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/garvv29/ThisPassedSomehow/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/garvv29/ThisPassedSomehow/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/garvv29/ThisPassedSomehow/tree/master/0125-valid-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/garvv29/ThisPassedSomehow/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/garvv29/ThisPassedSomehow/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/garvv29/ThisPassedSomehow/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/garvv29/ThisPassedSomehow/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/garvv29/ThisPassedSomehow/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/garvv29/ThisPassedSomehow/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/garvv29/ThisPassedSomehow/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/garvv29/ThisPassedSomehow/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/garvv29/ThisPassedSomehow/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/garvv29/ThisPassedSomehow/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/garvv29/ThisPassedSomehow/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/garvv29/ThisPassedSomehow/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/garvv29/ThisPassedSomehow/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/garvv29/ThisPassedSomehow/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/garvv29/ThisPassedSomehow/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
