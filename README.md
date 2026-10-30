@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/3614-process-string-with-special-operations-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/garvv29/ThisPassedSomehow/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/garvv29/ThisPassedSomehow/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/garvv29/ThisPassedSomehow/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Trie
 |  |
 | ------- |
@@ -355,14 +356,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/garvv29/ThisPassedSomehow/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/garvv29/ThisPassedSomehow/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/garvv29/ThisPassedSomehow/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/garvv29/ThisPassedSomehow/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/garvv29/ThisPassedSomehow/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/garvv29/ThisPassedSomehow/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Design
 |  |
 | ------- |
