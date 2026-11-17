@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/garvv29/ThisPassedSomehow/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvv29/ThisPassedSomehow/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/garvv29/ThisPassedSomehow/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/garvv29/ThisPassedSomehow/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/garvv29/ThisPassedSomehow/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/garvv29/ThisPassedSomehow/tree/master/3524-find-x-value-of-array-i) |
 | [3660-jump-game-ix](https://github.com/garvv29/ThisPassedSomehow/tree/master/3660-jump-game-ix) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/garvv29/ThisPassedSomehow/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvv29/ThisPassedSomehow/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/garvv29/ThisPassedSomehow/tree/master/2540-minimum-common-value) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/garvv29/ThisPassedSomehow/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/garvv29/ThisPassedSomehow/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Hash Table
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/garvv29/ThisPassedSomehow/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvv29/ThisPassedSomehow/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/garvv29/ThisPassedSomehow/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/garvv29/ThisPassedSomehow/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/garvv29/ThisPassedSomehow/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/garvv29/ThisPassedSomehow/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/garvv29/ThisPassedSomehow/tree/master/3121-count-the-number-of-special-characters-ii) |
